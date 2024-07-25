@@ -73,3 +73,16 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.signup-banner {
+    background-color: #B458FF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
