@@ -2,15 +2,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #D19CFF
+    background-color: #D9BCF3;
+}
 
-container {
+.container {
     width: 80%;
     margin: 0 auto;
 }
 
 header {
-    background-color: #000000;
+    background-color: #333;
     color: white;
     padding: 1em 0;
     text-align: center;
@@ -71,17 +72,4 @@ footer {
     color: white;
     text-align: center;
     padding: 1em 0;
-}
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-}
-
-.signup-banner {
-    background-color: #BF76FF;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: bold;
 }
