@@ -3,16 +3,8 @@ body {
     margin: 0;
     padding: 0;
     background-color: #D19CFF
-.signup-banner {
-    background-color: #B458FF; 
-    color: white;             
-    padding: 20px;          
-    text-align: center;      
-    font-size: 18px;        
-    font-weight: bold;       
-}
 
-.container {
+container {
     width: 80%;
     margin: 0 auto;
 }
